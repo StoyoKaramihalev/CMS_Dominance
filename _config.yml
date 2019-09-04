@@ -1,0 +1,6 @@
+theme: jekyll-theme-minimal
+logo: /img/Arena.png
+output:
+  html_document:
+    includes:
+      in_header: GA_script.html
