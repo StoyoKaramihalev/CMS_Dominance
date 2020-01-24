@@ -1,8 +1,10 @@
 ## Introduction
 This repository holds the analyses and figures for the following manuscript: 
+
 *"Sexually divergent effects of social dominance on chronic stress outcomes in mice"*. 
 
 Authors:
+
 Stoyo Karamihalev*†*, Elena Brivio*†*, Cornelia Flachskamm, Rainer Stoffel, and Alon Chen*
 (*†*Equal contribution authors)
 
