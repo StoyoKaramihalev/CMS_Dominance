@@ -8,12 +8,12 @@ _Stoyo Karamihalev†, Elena Brivio†, Cornelia Flachskamm, Rainer Stoffel, Mat
 
 †Equal contribution authors
 
-The revised manuscript is available on line through [eLife](https://elifesciences.org/articles/58723).
+The revised manuscript is available online through the journal [eLife](https://elifesciences.org/articles/58723).
 
 An earlier version of the manuscript is available on [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.02.04.933481v1).
 
 ## Analyses and Figures
-The analyses and figures from this manuscript are available as in html form with embedded code [here](https://stoyokaramihalev.github.io/CMS_Dominance/Figures.html). The datasets used are saved as a single RData file (can be loaded into R via the 'readRDS' function) in the repository under /data/obj.Rds. We will also gladly provide spreadsheets for any specific parts of the dataset upon request. 
+The analyses and figures from this manuscript are available as in html form with embedded code [here](https://stoyokaramihalev.github.io/CMS_Dominance/Figures.html). The datasets used are saved as a single RData file (to be loaded in R via the 'readRDS' function) in the repository under /data/obj.Rds. We will also gladly provide spreadsheets for any specific parts of the dataset upon request. 
 
 
 ## Additional Sources
