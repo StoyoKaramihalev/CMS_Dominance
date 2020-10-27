@@ -1,17 +1,20 @@
 ## Introduction
 This repository holds the analyses and figures for the following manuscript: 
 
-**"Sexually divergent effects of social dominance on chronic stress outcomes in mice"**
+[**"Social dominance mediates behavioral adaptation to chronic stress in a sex-specific manner"**](https://elifesciences.org/articles/58723)
 
 **Authors:**
 _Stoyo Karamihalev†, Elena Brivio†, Cornelia Flachskamm, Rainer Stoffel, Mathias V. Schmidt, and Alon Chen_
 
 †Equal contribution authors
 
-An early version of the manuscript is available [here](https://www.biorxiv.org/content/10.1101/2020.02.04.933481v1).
+The revised manuscript is available on line through [eLife](https://elifesciences.org/articles/58723).
+
+An earlier version of the manuscript is available on [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.02.04.933481v1).
 
 ## Analyses and Figures
-The analyses and figures from this manuscript are available as a markdown document [here](https://stoyokaramihalev.github.io/CMS_Dominance/Figures.html).
+The analyses and figures from this manuscript are available as in html form with embedded code [here](https://stoyokaramihalev.github.io/CMS_Dominance/Figures.html). The datasets used are saved as a single RData file (can be loaded into R via the 'readRDS' function) in the repository under /data/obj.Rds. We will also gladly provide spreadsheets for any specific parts of the dataset upon request. 
+
 
 ## Additional Sources
 For additional details on the "Social Box" paradigm, see: 
